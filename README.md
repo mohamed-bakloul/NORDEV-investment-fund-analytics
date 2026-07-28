@@ -66,8 +66,15 @@ erDiagram
 - [ ] `images/app-scoring.png` — Power Apps : calcul automatique score & prime
 
 ![État global](images/etat-global.png)
+
 ![Emplois](images/emploi.png)
-![Power Apps](images/app-dossier.png)
+
+![Subventions](images/subvention.png)
+
+![Gantt des délais](images/gantt-delais.png)
+
+![Power Apps — saisie](images/app-dossier.png)
+
 
 ## Stack
 SharePoint / Microsoft Lists · Power Apps (Canvas, Patch, règles de gestion) · Power BI (DAX, Power Query M, drill-through, cartes) · modélisation relationnelle · coordination des agents de saisie
