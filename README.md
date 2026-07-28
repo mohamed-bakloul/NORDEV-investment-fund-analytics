@@ -77,7 +77,7 @@ erDiagram
 
 
 ## Stack
-SharePoint / Microsoft Lists · Power Apps (Canvas, Patch, règles de gestion) · Power BI (DAX, Power Query M, drill-through, cartes) · modélisation relationnelle · coordination des agents de saisie
+SharePoint / Microsoft Lists · Power Apps (Canvas, Patch, règles de gestion) · Power BI (DAX, Power Query M, drill-through, cartes) / FIGMA · modélisation relationnelle · coordination des agents de saisie
 
 ---
 
